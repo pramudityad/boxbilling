@@ -17,7 +17,7 @@ return array(
     /**
      * Full URL where BoxBilling is installed with trailing slash
      */
-    'url'     => 'http://localhost/',
+    'url'     => 'http://localhost:8004/',
 
     'admin_area_prefix' =>  '/bb-admin',
 
